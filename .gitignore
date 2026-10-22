@@ -5,3 +5,9 @@ __pycache__/
 data/**
 !data/.gitkeep
 models/*.onnx
+
+.pytest_cache/
+
+.env.local
+
+*.log
